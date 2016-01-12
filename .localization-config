@@ -1,0 +1,32 @@
+{
+  "Locales": [
+    "cs-CZ",
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "hu-HU",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "nl-NL",
+    "pl-PL",
+    "pt-BR",
+    "pt-PT",
+    "ru-RU",
+    "sv-SE",
+    "tr-TR",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "Files": [
+    "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Active_Directory_Premium.md",
+    "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Azure_Rights_Management.md",
+    "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Enterprise_Mobility_Suite.md",
+    "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_for_Intune.md",
+    "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Active_Directory_Premium_.md",
+    "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Azure_Rights_Management.md",
+    "oltest_ems\\v1\\Topic\\FastTrack_Center_Benefit_Process_for_Intune.md"
+  ],
+  "IncludeDependencies": true,
+  "AutoPush": true
+}
