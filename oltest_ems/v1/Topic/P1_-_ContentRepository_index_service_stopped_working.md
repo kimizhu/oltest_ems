@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 964df4df-a1fe-4eae-995f-94c82ed2fa64
+ms.author: dfchen@microsoft.com
 ---
 # P1 - ContentRepository index service stopped working
 P1 - ContentRepository index service stopped working

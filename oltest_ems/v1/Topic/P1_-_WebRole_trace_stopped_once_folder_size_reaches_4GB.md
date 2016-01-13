@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 479ef2f7-5106-4987-8ae8-05cb3f66a996
+ms.author: obsolete_zhaoh@microsoft.com
 ---
 # P1 - WebRole trace stopped once folder size reaches 4GB
 P1 - WebRole trace stopped once folder size reaches 4GB

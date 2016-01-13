@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 3c199cdc-2d17-4031-8f01-2b7f092781bd
+ms.author: reyang@microsoft.com
 ---
 # P0 - Search service cannot be accessed from Client
 ## P0 - Search service cannot be accessed from Client ##

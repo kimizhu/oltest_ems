@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: a836eddc-3457-48a7-888a-999b76931411
+ms.author: sushi@microsoft.com
 ---
 # P0 - Client S76 deployment failure analysis
 ## P0 Client S76 deployment failure analysis##

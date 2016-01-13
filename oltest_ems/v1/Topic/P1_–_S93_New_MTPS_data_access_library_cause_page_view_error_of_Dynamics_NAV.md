@@ -7,6 +7,7 @@ ms.date: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.assetid: 42a7232e-3496-4d12-a63b-04b6ec3ddb48
+ms.author: renhe.li@microsoft.com
 ---
 # P1 – S93 New MTPS data access library cause page view error of Dynamics NAV
 ## P1 – S93 New MTPS data access library cause page view error of Dynamics NAV ## 

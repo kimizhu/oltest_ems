@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: e687a820-f8e7-4a77-a894-5a17c3521738
+ms.author: reyang@microsoft.com
 ---
 # P0 - S78 Service deployment break Structured Query in PROD
 ##P0 - S78 Service deployment break Structured Query in PROD

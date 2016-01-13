@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 5f7f7472-e5cf-461e-88f1-2910e5a95a8a
+ms.author: qisun@microsoft.com
 ---
 # P1 - Edit token is disabled in client after S76 deployment
 ## P1 Edit token is disabled in client after s76 deployment##

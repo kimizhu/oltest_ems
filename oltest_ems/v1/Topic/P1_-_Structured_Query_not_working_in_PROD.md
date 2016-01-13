@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 54134655-f91e-4d3a-ad24-915d6fa58f40
+ms.author: lvyu@microsoft.com
 ---
 # P1 - Structured Query not working in PROD
 ##P1 - Structured Query not working in PROD

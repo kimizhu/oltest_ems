@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 1c978f8c-f134-4407-a808-8cc67dabc10f
+ms.author: dfchen@microsoft.com
 ---
 # P1 - ContentRepository notification stopped working
 P1 - ContentRepository notification stopped working

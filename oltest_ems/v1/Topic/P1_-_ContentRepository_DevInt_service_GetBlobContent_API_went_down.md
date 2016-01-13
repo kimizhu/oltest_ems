@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 43d0ff3d-4037-4014-8358-1ba4804c7b0a
+ms.author: dfchen@microsoft.com
 ---
 # P1 - ContentRepository DevInt service GetBlobContent API went down
 P1 - ContentRepositroy DevInt service GetBlobContent API went down

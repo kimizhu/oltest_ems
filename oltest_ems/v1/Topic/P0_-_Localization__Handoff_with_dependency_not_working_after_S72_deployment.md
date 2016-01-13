@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 5ad8709b-3b13-44b6-8762-0e502c97cd1c
+ms.author: yungez@microsoft.com
 ---
 # P0 - Localization: Handoff with dependency not working after S72 deployment
 ## P0 - Localization: Handoff with dependency not working after S72 Deployment##

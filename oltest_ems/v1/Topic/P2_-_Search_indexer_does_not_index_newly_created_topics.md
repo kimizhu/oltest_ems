@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: dff88e71-2543-4ba8-bfb8-b0910d9354aa
+ms.author: reyang@microsoft.com
 ---
 # P2 - Search indexer does not index newly created topics
 ## P2 - Search indexer does not index newly created topics ##

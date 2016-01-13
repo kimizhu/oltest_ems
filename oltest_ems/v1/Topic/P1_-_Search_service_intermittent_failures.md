@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 500bb8e5-2034-4d1b-8fc7-5fde17b690bc
+ms.author: reyang@microsoft.com
 ---
 # P1 - Search service intermittent failures
 ## P1 - Search service intermittent failures ##

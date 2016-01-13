@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: b43abf76-2c8e-46b6-aa41-5b362f62ac59
+ms.author: penlv@microsoft.com
 ---
 # P0 - Client can not be loaded successfully after ambient config changes
 ## P0 Client can not be loaded successfully after ambient config changes##

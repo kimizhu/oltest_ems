@@ -6,6 +6,7 @@ search: na
 ms.date: na
 ms.tgt_pltfrm: na
 ms.assetid: 3e9c0474-7e1b-4644-b6a3-bacc7b52a4ff
+ms.author: arthma@microsoft.com
 ---
 # P0 – API Service can’t publish outline on PROD after S75 deployment
 ## P0 API Service can't publish outline on PROD after S75 deployment##
